@@ -1,1 +1,2 @@
 I have understand the git basics .
+Time for second change .
